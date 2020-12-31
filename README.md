@@ -43,7 +43,7 @@
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/duplicate_error.png">
 
 ### How it works? See:)
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.gif">
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/output.gif">
 
 ### 4. Video Surveillance:
 > In this module we take video as input and convert it into frames and then detect the criminal in the frame and then extract the details of the criminal from the frame. This module is quite fast and efficient in predicting the images.
