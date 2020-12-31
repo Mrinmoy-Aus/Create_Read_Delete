@@ -24,7 +24,7 @@
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/basicUI.jpeg">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/ui.png">
 
 ### 1. Register Criminal
 > In this module we have to select at least one image and fill up the details provided in the form then the details will be submitted on an online firebase server.
