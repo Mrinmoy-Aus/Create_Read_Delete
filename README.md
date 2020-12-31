@@ -59,5 +59,5 @@
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/show.png">
 
 ### 7.	Clear:
-> This module clears all the data present in key,value and Time-to-live input fields respectively.
+> This module clears all the data present in Key,Value and Time-to-live input fields respectively.
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/clear.gif">
