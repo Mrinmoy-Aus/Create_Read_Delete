@@ -35,7 +35,7 @@
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/save.png">
 
 ### How it works? See:)
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/remoteCamera.gif">
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/output.gif">
 
 ### 3. Detect Criminal:
 > In this module we use deep learning technique from an open source library face_recognition . Our module can take angular images and images from different intensities. This module after verifying the image extracts the person’s details from the database.
