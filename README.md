@@ -18,8 +18,8 @@
 
 ### System Requirements
 > Os supported: Ubuntu 18.04.5 LTS, windows 10, windows 8</br>
-> Ram:4GB</br>
-> Space:205.9 kB</br>
+> Ram: 4GB</br>
+> Space: 205.9 kB</br>
 
 ### Install Packages
 > pip install -r requirements.txt
