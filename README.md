@@ -26,11 +26,11 @@
 ### Basic UI
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/ui.png">
 
-### 1. Open a file
-> In this module we have to select at open one existing file in which the Create,Read and Delete operations will be done.
+### 1. Open a file:
+> In this module we have to open one existing file in which the Create,Read and Delete operations will be done.
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/open.png">
 
-### 2. Remote Camera - Different Location - Different Network:
+### 2. Save a file:
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/live%20camera%20location.jpg">
 
 ### How it works? See:)
