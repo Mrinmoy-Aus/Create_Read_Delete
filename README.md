@@ -50,7 +50,8 @@
 
 ### 5. Delete:
 > In this module an user have to specify the key for which the respective value has to be delted.The system throws proper error message if the key is not present in the data store.This module also supports time-to-live property and does not allow delete operations if the record has expired and proper messages are also generated for the said property.
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal2.jpeg">
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/delete.png">
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/delete.png">
 
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/facebookMatch.gif">
