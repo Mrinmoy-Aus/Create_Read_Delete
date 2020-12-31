@@ -12,8 +12,11 @@
 
 ### Code Requirements
 >numpy==1.19.1(pip install numpy)
+---------------------------------
 >XlsxWriter==1.3.7(pip install XlsxWriter)
+----------------------------------
 >pandas==1.1.5(pip install pandas)
+----------------------------------
 >openpyxl==3.0.5(pip install openpyxl)
 ### Install Packages
 > pip install -r requirements.txt
