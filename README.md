@@ -58,10 +58,6 @@
 > This module extracts all the information from the database and makes it visible in a tabular format to the user.This module also supports time-to-live property and does not retain the records whose specified time limit has expired.
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/show.png">
 
-### 7.	Crime Prediction:
-> In this module we use a linear regression machine learning algorithm to predict crime in near future dates. This module plots analytics to depict major crimes, district crime, 15 top crime, resolution of crime, each day crime, district vs crime category, each month crime. Our module plots the crime description, weapon used in a map.
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/crimeDetection.jpeg">
-
-### 8. Violence Detection: 
-> In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/violenceDetection.jpeg">
+### 7.	Clear:
+> This module clears all the data present in key,value and Time-to-live input fields respectively.
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/clear.gif">
