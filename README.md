@@ -25,9 +25,9 @@
 > pip install -r requirements.txt
 
 ### Testing
-[x] Modules tested unit by unit</br>
-[x] Checked on different OS</br>
-[x] Thread safe supports multiprocessing</br>
+- [x]  Modules tested unit by unit
+- [x]  Checked on different OS
+- [x]  Thread safe supports multiprocessing
 
 ### To run the model:
 > python crud.py
