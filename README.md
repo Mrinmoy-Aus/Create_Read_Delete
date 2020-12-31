@@ -27,8 +27,8 @@
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/ui.png">
 
 ### 1. Register Criminal
-> In this module we have to select at least one image and fill up the details provided in the form then the details will be submitted on an online firebase server.
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/registerCriminal.jpeg">
+> In this module we have to select at open one existing file in which the Create,Read and Delete operations will be done.
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/open.png">
 
 ### 2. Remote Camera - Different Location - Different Network:
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/live%20camera%20location.jpg">
