@@ -46,7 +46,7 @@
 > In this module an user have to specify the key for which the respective json value will be extracted from the database and displayed in the value field.The system throws proper error message if the key is not present in the data store.This module also supports time-to-live property and does not allow read operations if the record has expired and proper messages are also generated for the said property. 
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/read.png">
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/read_error.png">
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/time_to_live.png">
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/time-to-live.png">
 
 ### 5. Facebook Matcher:
 > In this module we take the picture of the criminal and then find the criminal in facebook by using open source platform selenium and then extract the information of the criminal including the facebook ID of the criminal. This module is quite efficient and fast.
