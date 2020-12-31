@@ -56,9 +56,7 @@
 
 ### 6. Show:
 > This module extracts all the information from the database and makes it visible in a tabular format to the user.This module also supports time-to-live property and does not retain the records whose specified time limit has expired.
-
-### How it works? See:)
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/twitterMatch.gif">
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/show.png">
 
 ### 7.	Crime Prediction:
 > In this module we use a linear regression machine learning algorithm to predict crime in near future dates. This module plots analytics to depict major crimes, district crime, 15 top crime, resolution of crime, each day crime, district vs crime category, each month crime. Our module plots the crime description, weapon used in a map.
