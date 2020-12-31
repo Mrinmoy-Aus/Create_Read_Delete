@@ -31,7 +31,8 @@
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/open.png">
 
 ### 2. Save a file:
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/live%20camera%20location.jpg">
+> In this module we can save a new file or f not specified it will be stored in the default project directory.
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/save.png">
 
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/remoteCamera.gif">
