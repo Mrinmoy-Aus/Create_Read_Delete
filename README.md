@@ -37,8 +37,8 @@
 ### How it works? See:)
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/output.gif">
 
-### 3. Detect Criminal:
-> In this module we use deep learning technique from an open source library face_recognition . Our module can take angular images and images from different intensities. This module after verifying the image extracts the person’s details from the database.
+### 3. Create:
+> In this module a user can insert key value pair in the database.The key is a string capped at 32kb and value is a json object capped at 16kb.The system throws proper error message for duplicate keys also.This module also supports time-to-live property if specified it will retain for the said time in the data store or else it will assume it to be infinite time if not specified.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.jpeg">
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.jpeg">
 
