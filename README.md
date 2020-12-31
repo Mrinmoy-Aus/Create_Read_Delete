@@ -54,11 +54,8 @@
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/delete_error.png">
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/time-to-live.png">
 
-### How it works? See:)
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/facebookMatch.gif">
-
-### 6. Twitter Matcher:
-> Here also we take picture of the criminal and then find the criminal in twitter by selinium and scrap the information of the criminal from her/his profile.
+### 6. Show:
+> This module extracts all the information from the database and makes it visible in a tabular format to the user.This module also supports time-to-live property and does not retain the records whose specified time limit has expired.
 
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/twitterMatch.gif">
