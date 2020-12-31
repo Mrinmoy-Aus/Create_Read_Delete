@@ -15,6 +15,12 @@
 >XlsxWriter==1.3.7(pip install XlsxWriter)</br>
 >pandas==1.1.5(pip install pandas)</br>
 >openpyxl==3.0.5(pip install openpyxl)
+
+### System Requirements
+> Os supported: Ubuntu 18.04.5 LTS, windows 10, windows 8
+> Ram:4GB
+> Space:205.9 kB
+
 ### Install Packages
 > pip install -r requirements.txt
 
