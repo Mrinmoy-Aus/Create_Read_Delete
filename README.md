@@ -38,15 +38,15 @@
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/output.gif">
 
 ### 3. Create:
-> In this module a user can insert key value pair in the database.The key is a string capped at 32kb and value is a json object capped at 16kb.The system throws proper error message for duplicate keys also.This module also supports time-to-live property if specified it will retain for the said time in the data store or else it will assume it to be infinite time if not specified.
+> In this module an user can insert key value pair in the database.The key is a string capped at 32kb and value is a json object capped at 16kb.The system throws proper error message for duplicate keys also.This module also supports time-to-live property if specified it will retain for the said time in the data store or else it will assume it to be infinite time if not specified.
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/create.png">
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/duplicate_error.png">
 
 ### How it works? See:)
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/output.gif">
 
-### 4. Video Surveillance:
-> In this module we take video as input and convert it into frames and then detect the criminal in the frame and then extract the details of the criminal from the frame. This module is quite fast and efficient in predicting the images.
+### 4. Read:
+> In this module an user have to specify the key for which the respective json value will be extracted from the database and displayed in the value field.The system throws proper error message if the key is not present in the data store. 
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/videoSurveilance.jpeg">
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.gif">
 
