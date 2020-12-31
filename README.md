@@ -24,6 +24,11 @@
 ### Install Packages
 > pip install -r requirements.txt
 
+#Testing
+>[x] Modules tested unit by unit
+>[x] Checked on different OS
+>[x] Thread safe supports multiprocessing
+
 ### To run the model:
 > python crud.py
 
