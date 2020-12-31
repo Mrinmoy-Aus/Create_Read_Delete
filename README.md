@@ -1,4 +1,4 @@
-respectively<img src="https://www.spirit-of-metal.com/les%20goupes/C/Crud/pics/781097_logo.jpg">
+<img src="https://www.spirit-of-metal.com/les%20goupes/C/Crud/pics/781097_logo.jpg">
 
 # Create Read and Delete Operations
 
