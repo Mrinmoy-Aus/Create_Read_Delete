@@ -1,4 +1,4 @@
-<img src="https://www.spirit-of-metal.com/les%20goupes/C/Crud/pics/781097_logo.jpg">
+respectively<img src="https://www.spirit-of-metal.com/les%20goupes/C/Crud/pics/781097_logo.jpg">
 
 # Create Read and Delete Operations
 
@@ -36,7 +36,7 @@
 > In this module we have to open one existing file in which the Create,Read and Delete operations will be done.
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/open.png">
 
-### 2. Save a file:
+### 2. Initialize:
 > In this module we can save a new file or if not specified it will be stored in the default project directory.
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/save.png">
 
