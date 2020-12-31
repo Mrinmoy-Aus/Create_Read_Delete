@@ -40,7 +40,7 @@
 ### 3. Create:
 > In this module a user can insert key value pair in the database.The key is a string capped at 32kb and value is a json object capped at 16kb.The system throws proper error message for duplicate keys also.This module also supports time-to-live property if specified it will retain for the said time in the data store or else it will assume it to be infinite time if not specified.
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/create.png">
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.jpeg">
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/duplicate_error.png">
 
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.gif">
