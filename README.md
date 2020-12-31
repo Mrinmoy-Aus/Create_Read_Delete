@@ -42,16 +42,10 @@
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/create.png">
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/duplicate_error.png">
 
-### How it works? See:)
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/output.gif">
-
 ### 4. Read:
 > In this module an user have to specify the key for which the respective json value will be extracted from the database and displayed in the value field.The system throws proper error message if the key is not present in the data store. 
 <img src="https://github.com/argho28/Create_Read_Delete/blob/main/read.png">
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.gif">
-
-### How it works? See:)
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/videoSurveilance.gif">
+<img src="https://github.com/argho28/Create_Read_Delete/blob/main/read_error.png">
 
 ### 5. Facebook Matcher:
 > In this module we take the picture of the criminal and then find the criminal in facebook by using open source platform selenium and then extract the information of the criminal including the facebook ID of the criminal. This module is quite efficient and fast.
